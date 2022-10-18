@@ -1,7 +1,7 @@
-<h1>KeeperApp</h1>
+<h1>KeeperApp <img src='https://drive.google.com/file/d/1Ifazp6rV_A7nZycqtVym9S8kuqCluWQO/view?usp=sharing'></h1>
 A React App used which can create, save and delete notes of a user.
 
-Languages Used:
+<h2>Tech Stack:</h2>
 <ol>
   <li>HTML5</li>
   <li>CSS3</li>
