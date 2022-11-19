@@ -1,4 +1,4 @@
-<h1>KeeperApp <img style='background-color=white;' src='https://drive.google.com/uc?export=view&id=13iQkQgp_oxD_gTqxP0CZ6Wit2inpwi0-' width='50px'></h1>
+<h1>KeeperApp <img style='background-color=white;' src='https://user-images.githubusercontent.com/68121380/202854097-646b7725-6603-4d1c-9de6-cce78b72907c.png' width='50px'></h1>
 A React App used which can create, save and delete notes of a user.
 
 <h2>Tech Stack:</h2>
